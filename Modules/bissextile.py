@@ -1,4 +1,3 @@
-!#"C:\Fichiers copies\MarcNew\Prog informatiques\10_Internet\01_Programmation\Python\55_PyCharm\pythonPrograms\Modules"
 # -*- coding :Latin -1 -*
 import os   # On importe le module os qui dispose de variables
             # et de fonctions utiles pour dialoguer avec votre
