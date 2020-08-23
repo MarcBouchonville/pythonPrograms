@@ -1,7 +1,7 @@
 # -*- coding :Latin -1 -*
 import os   # On importe le module os qui dispose de variables
             # et de fonctions utiles pour dialoguer avec votre
-            # syst ème d'exploitation
+            # système d'exploitation
 
 # Programme testant si une année, saisie par l'utilisateur, est bissextile ou non
 
